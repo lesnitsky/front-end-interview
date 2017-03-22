@@ -31,3 +31,4 @@ Front-end interview questions
 * 📖 [ES6 features](https://github.com/lukehoban/es6features)
 * 📖 [How browser works](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/)
 * 📖 [requestAnimationFrame](https://www.html5rocks.com/en/tutorials/speed/animations/)
+* 📖 [Memory leaks](https://auth0.com/blog/four-types-of-leaks-in-your-javascript-code-and-how-to-get-rid-of-them/)
