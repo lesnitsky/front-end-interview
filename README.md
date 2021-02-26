@@ -12,14 +12,15 @@ Front-end interview questions
 * Promises, async functions
 * DOM API / event handling / event delegation
 * `use strict;`
+* ES6 features
 * hoisting
 
 ## HTML/CSS
 * Selectors specificity
 * Rednering pipline
 
+
 ## Advanced
-* ES6 features
 * CSS Animations / `requestAnimationFrame`
 * Browser rendering pipeline
 * modules (CommonJS vs ES6)
