@@ -9,10 +9,16 @@ Front-end interview questions
 * `Object.create` polyfill
 * `Array.prototype.*` methods
 * Event loop
-* Promises
+* Promises, async functions
 * DOM API / event handling / event delegation
 * `use strict;`
 * ES6 features
+* hoisting
+
+## HTML/CSS
+* Selectors specificity
+* Rednering pipline
+
 
 ## Advanced
 * CSS Animations / `requestAnimationFrame`
