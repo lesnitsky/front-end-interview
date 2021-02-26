@@ -12,9 +12,9 @@ Front-end interview questions
 * Promises
 * DOM API / event handling / event delegation
 * `use strict;`
+* ES6 features
 
 ## Advanced
-* ES6 features
 * CSS Animations / `requestAnimationFrame`
 * Browser rendering pipeline
 * modules (CommonJS vs ES6)
